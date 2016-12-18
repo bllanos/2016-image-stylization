@@ -5,7 +5,7 @@
 ** ### About
 ** Created for: COMP4905A Honours Project\n
 ** Fall 2016\n
-** Bernard Llanos, ID 100793648\n
+** Bernard Llanos\n
 ** Supervised by Dr. David Mould\n
 ** School of Computer Science, Carleton University
 **
@@ -164,7 +164,7 @@ void ImageViewer::about()
     QMessageBox::about(this, tr("About"),
             tr("<p><b>COMP4905A Honours Project</b></p>"
                "<p>Fall 2016</p>"
-               "<p>Bernard Llanos, ID 100793648</p>"
+               "<p>Bernard Llanos</p>"
                "<p>Supervised by Dr. David Mould</p>"
                "<p>School of Computer Science, Carleton University</p>"));
 }

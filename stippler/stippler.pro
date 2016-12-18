@@ -3,7 +3,7 @@
 #
 # COMP4905A Honours Project
 # Fall 2016
-# Bernard Llanos, ID 100793648
+# Bernard Llanos
 # Supervised by Dr. David Mould
 # School of Computer Science, Carleton University
 #

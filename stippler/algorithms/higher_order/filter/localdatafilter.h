@@ -8,7 +8,7 @@
 ** ### About
 ** Created for: COMP4905A Honours Project\n
 ** Fall 2016\n
-** Bernard Llanos, ID 100793648\n
+** Bernard Llanos\n
 ** Supervised by Dr. David Mould\n
 ** School of Computer Science, Carleton University
 **
